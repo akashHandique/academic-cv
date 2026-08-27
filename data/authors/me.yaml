@@ -2,115 +2,162 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  display: Akash Jyoti Handique
+  given: Akash Jyoti
+  family: Handique
+  alternate: 'আকাশ জ্যোতি হাণ্ডিকৈ'
+  pronunciation: ''
 postnominals:
   - PhD
   - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: PhD Candidate
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  I am a PhD researcher at the University of Canterbury in Christchurch, New Zealand.
+  My research focuses on the development of energy system models for the analysis of net-zero energy systems. 
+  I am particularly interested in the island energy systems, integration of renewable energies, energy storage systems and sector coupling.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Sustainable Energy Research Group
+    url: https://www.canterbury.ac.nz/research/about-uc-research/research-groups-and-centres/sustainable-energy-research-group
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:iamakash0123@gmail.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/akashHandique
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/akash-jyoti-handique-04857016a/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=eFiHxhoAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0003-2973-7911
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Energy systems modelling
+  - Net zero systems
+  - Renewable energy analyst
+
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD 
+    institution: University of canterbury
+    start: 2023-06-01
+    end: Present
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      Energy transition for Pacific islands.
+  - degree: M.Sc. in Water Resources Engineering and Management
+    institution: Stuttgart University
+    start: 2020-10-01
+    end: 2022-10-01
     button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      text: Download Thesis
+      url: https://github.com/akashHandique/GPE-BAL_Calibration/blob/main/Master's%20Thesis/Spatially_Explicit__Depth_dependent_and_Data_driven_Roughness_Calibration_for_Numerical_Modelling.pdf
+      icon: hero/arrow-down-tray    
+  - degree: B.Tech in Civil Engineering
+    institution: Tezpur University
+    start: 2015-05-01
+    end: 2019-05-01
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Research Assistant, Sustainable Energy Research Group
+    org: University of Canterbury, New Zealand
+    start: 2023-06-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      - Leading capacity-expansion modelling of Pacific Island energy transitions using REMix, PyPSA-Earth and HOMER. 
+      - Compiled the most comprehensive open-access energy-demand dataset to date for the Pacific Islands, and characterised the distinctive modelling challenges of small
+      island energy systems. 
+      - Supervises Bachelor's and Master's thesis students.
+
+  - role: Student Assistant, Institute for Modelling Hydraulic and Environmental Systems
+    org: University of Stuttgart, Germany
+    start: 2021-05-01
+    end: 2022-10-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      - Ran hydro-morphodynamic river models and processed experimental datasets.
+      - Pre- and post-processed geospatial data in QGIS for high-resolution river
+      and floodplain modelling, including an international river colmation
+      collaboration with MIT conducted in Bavaria.
+  - role: Intern
+    org: CSIR-North East Institute of Science and Technology, India
+    start: 2018-07-01
+    end: 2018-09-30
+    summary: |
+      - Characterised construction materials and contributed to the development
+      of an eco-friendly emulsion-based paver block for road construction.
 
 skills:
-  - name: Technical Skills
+  - name: Energy Systems Modelling
     items:
       - label: Python
         level: 5
-      - label: Machine Learning
+      - label: REMix / GAMS
         level: 5
-      - label: Cloud Computing
+      - label: HOMER Pro
+        level: 5
+      - label: PyPSA
         level: 4
+      - label: EnergyPLAN
+        level: 3
+      - label: MATLAB
+        level: 3
+  - name: Geospatial & Hydraulic
+    items:
+      - label: QGIS
+        level: 4
+      - label: TELEMAC
+        level: 3
+      - label: EPANET
+        level: 3
+      - label: MODFLOW
+        level: 3
+      - label: AutoCAD
+        level: 3
   - name: Research & Communication
     items:
       - label: Academic Writing
         level: 5
       - label: Conference Presentations
+        level: 5
+      - label: Peer Review
         level: 4
-      - label: Grant Proposals
+      - label: Student Supervision
         level: 4
-
+ 
 languages:
-  - name: English
+  - name: Assamese
     level: 5
     label: Native
-  - name: Spanish
+  - name: Hindi
+    level: 5
+    label: C2
+  - name: English
     level: 4
-    label: Fluent
-
+    label: C1
+  - name: German
+    level: 3
+    label: B1
+ 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Zweckverband Landeswasserversorgung Master's Scholarship
+    awarder: Zweckverband Landeswasserversorgung, Germany
+    date: "2021-01-01"
+    summary: |
+      Scholarship supporting master's study in water resources engineering
+      and management at the University of Stuttgart.
     icon: hero/trophy
+  - title: Ishan Uday Special Scholarship
+    awarder: University Grants Commission, India
+    date: "2015-01-01"
+    summary: |
+      National scholarship for students from the North Eastern Region of
+      India entering undergraduate study.
+    icon: hero/academic-cap
+  - title: Anundoram Borooah Award
+    awarder: Government of India
+    date: "2013-01-01"
+    summary: |
+      Awarded for academic distinction in the secondary school examinations.
+    icon: hero/academic-cap

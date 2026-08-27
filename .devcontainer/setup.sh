@@ -9,4 +9,4 @@ sudo dpkg -i /tmp/hugo.deb
 corepack enable pnpm
 pnpm install --no-frozen-lockfile
 
-hugo version
+HUGO_VERSION=0.161.0
