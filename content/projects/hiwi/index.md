@@ -1,5 +1,5 @@
 ---
-title: Sample collection at River Danube, Bavaria, germany
+title: Sample collection at River Danube, Bavaria, Germany
 date: 2022-10-01
 
 
