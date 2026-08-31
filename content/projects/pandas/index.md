@@ -1,15 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
-links:
-  - type: site
-    url: https://github.com/pandas-dev/pandas
-tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+title: Participation at IFAT World University challenge 2022
+date: 2022-10-01
+
+
 ---
-
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
-
+IFAT 2022 was a delight to partcipate and compete with more than 20 international teams from across the globe in the midst of the biggest water and energy exhibition. Our team performed two tasks in the competition: 
+ - integrated water management role playing task: Assuming the role of technical experts, and town planning officer to decide on potential allocation of water infrastructure projects in a water and land scarce town.
+  - SIMBA simulation to identify the optimum opeartion of a water treatement plants wunder local and demand constraints.
+   
 <!--more-->
